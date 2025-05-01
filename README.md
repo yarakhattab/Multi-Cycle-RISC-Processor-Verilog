@@ -43,5 +43,5 @@ Saja Asfour
 
 **Masa Jalamnaeh**  
 
- 🔗 [GitHub: @Masajalamnaeh](https://github.com/Masajalamnaeh)
+ 🔗 [GitHub: @masajalamnaeh](https://github.com/masajalamnaeh)
 
