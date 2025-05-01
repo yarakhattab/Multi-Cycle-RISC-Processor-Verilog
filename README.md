@@ -27,8 +27,21 @@ To try out the project:
 4. Run the test programs and observe the simulation outputs.
 5. Use waveform viewers to validate the processor’s behavior.
 
+   
 
+## ✍️ Authors 
+
+**Yara Khattab**  
+  📧 [yarakhattab16@gmail.com](mailto:yarakhattab16@gmail.com) 
+
+  
+  🔗 [GitHub: @yarakhattab](https://github.com/yarakhattab)
+
+Saja Asfour
+
+  🔗 [GitHub: @SajaAsfour](https://github.com/SajaAsfour)
 
 **Masa Jalamnaeh**  
-🎓 Computer Engineering Student – Birzeit University
+
+ 🔗 [GitHub: @MasaJalamnaeh](https://github.com/MasaJalamnaeh)
 
